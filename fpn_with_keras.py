@@ -1,4 +1,4 @@
-'''FPN in PyTorch.
+'''FPN in Keras.
 
 See the paper "Feature Pyramid Networks for Object Detection" for more details.
 '''
